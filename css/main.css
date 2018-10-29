@@ -39,11 +39,11 @@ a:not(.no-highlight) {
   background-color: #2694d8;
 }
 
-ol li:first-child {
+ol li:first-child .highlight {
   color: #719e47;
 }
 
-ol li:last-child {
+ol li:last-child .highlight {
   color: #2aa198;
 }
 
