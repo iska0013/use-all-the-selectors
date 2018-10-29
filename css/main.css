@@ -1,0 +1,85 @@
+body {
+  background-color: #fdf6e3;
+}
+
+header, footer {
+  font-size: 1.5rem;
+}
+
+nav ul {
+  font-family: sans-serif;
+}
+
+.logo {
+  text-transform: uppercase;
+}
+
+.wrapper {
+  background-color: #eee8d5;
+}
+
+h2 {
+  color: #93a1a1;
+  font-weight: bold;
+}
+
+.wrapper > .dfn {
+  background-color: #b58900;
+}
+
+.dfn {
+  color: #000;
+}
+
+a:not(.no-highlight) {
+  background-color: #719e07;
+}
+
+[rel="exter"] {
+  background-color: #2694d8;
+}
+
+ol li:first-child {
+  color: #719e47;
+}
+
+ol li:last-child {
+  color: #2aa198;
+}
+
+p + strong {
+  color: #fff;
+  font-weight: bold;
+}
+
+ul li strong:first-child {
+  color: #000;
+}
+
+h1 nav ul li {
+  background-color: #719e07;
+}
+
+.no-highlight {
+  background-color: #eee8d5;
+}
+
+.contents li:nth-child(1) {
+  background-color: #719e47;
+}
+
+.contents li:nth-child(3) {
+  background-color: #2694d8;
+}
+
+.contents li:nth-child(odd) {
+  background-color: #657ba3;
+}
+
+.contents li:nth-child(even) {
+  background-color: #586e75;
+}
+
+.contents li:nth-child(3n) {
+  background-color: #d04b16;
+}
