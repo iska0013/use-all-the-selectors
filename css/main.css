@@ -35,7 +35,7 @@ a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-[rel="external"] {
+.relb =["external"] {
   background-color: #2694d8;
 }
 
@@ -64,22 +64,22 @@ h1 nav ul li {
   background-color: #eee8d5;
 }
 
-.Types li:nth-child(1) {
+.contents li:nth-child(1) {
   background-color: #719e47;
 }
 
-.Types li:nth-child(3) {
+.contents li:nth-child(3) {
   background-color: #2694d8;
 }
 
-.Types li:nth-child(odd) {
+.types li:nth-child(odd) {
   background-color: #657ba3;
 }
 
-.Types li:nth-child(even) {
+.types li:nth-child(even) {
   background-color: #586e75;
 }
 
-.Typesli:nth-child(3n) {
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
