@@ -35,7 +35,7 @@ a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-.relb =["external"] {
+li:nth-child(3) {
   background-color: #2694d8;
 }
 
